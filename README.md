@@ -1,4 +1,4 @@
 # LeetCode
 
-- https://leetcode.com/
-- https://leetcode-cn.com/
+- [LeetCode](https://leetcode.com/)
+- [LeetCode for CN](https://leetcode-cn.com/)
