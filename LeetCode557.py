@@ -10,6 +10,7 @@ Note: In the string, each word is separated by single space and there will not b
 
 """
 
+
 class Solution:
     def reverseWords(self, s):
         """
